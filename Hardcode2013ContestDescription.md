@@ -128,6 +128,8 @@ Below are the basic functional requirements for the application.
 
 <wiki:gadget url="http://hardcode.googlecode.com/git/iframe.xml" up\_url="https://docs.google.com/document/d/1B8jPlKO-QsMiUwWeWUrP6AKyed\_z1ot4qfhHVgD5P20/preview?rm=demo" width="100%" height="500px"/>
 
+(View Basic Functional Requirements here: https://docs.google.com/document/d/1B8jPlKO-QsMiUwWeWUrP6AKyed\_z1ot4qfhHVgD5P20/preview?rm=demo)
+
 ## Optional Functional Requirements ##
 Below are the optional functional requirements for the application.
 
@@ -136,3 +138,5 @@ A team can choose to implement any of the optional requirements.  They do not ne
 **NOTE**:  Requirements are NOT ordered by significance.  That is, the order of the requirements do not indicate which requirement is “more important”.  If you have included additional features to your application that are not listed here, [let us know](https://code.google.com/p/hardcode/issues/entry?template=New+Feature) before the Round 1 deadline, and we will consider giving credit for these (and announce them to other participants). We recommend you to submit your features ideas as early as possible as we might not accept complex new features towards the end of the contest. We may consider partial implementations and determine if any points should be awarded on a case by case basis.
 
 <wiki:gadget url="http://hardcode.googlecode.com/git/iframe.xml" up\_url="https://docs.google.com/document/d/1PPBbdMuznJs4jOfSofC-wgmYb3Yr0UVUKhyVPKnHOFo/preview?rm=demo" width="100%" height="500px"/>
+
+(View Optional Functional Requirements here: https://docs.google.com/document/d/1PPBbdMuznJs4jOfSofC-wgmYb3Yr0UVUKhyVPKnHOFo/preview?rm=demo)
