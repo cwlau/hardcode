@@ -128,7 +128,7 @@ Below are the basic functional requirements for the application.
 
 <wiki:gadget url="http://hardcode.googlecode.com/git/iframe.xml" up\_url="https://docs.google.com/document/d/1B8jPlKO-QsMiUwWeWUrP6AKyed\_z1ot4qfhHVgD5P20/preview?rm=demo" width="100%" height="500px"/>
 
-(View Basic Functional Requirements here: https://docs.google.com/document/d/1B8jPlKO-QsMiUwWeWUrP6AKyed\_z1ot4qfhHVgD5P20/preview?rm=demo)
+(View Basic Functional Requirements here: https://docs.google.com/document/d/1B8jPlKO-QsMiUwWeWUrP6AKyed_z1ot4qfhHVgD5P20/preview)
 
 ## Optional Functional Requirements ##
 Below are the optional functional requirements for the application.
@@ -139,4 +139,4 @@ A team can choose to implement any of the optional requirements.  They do not ne
 
 <wiki:gadget url="http://hardcode.googlecode.com/git/iframe.xml" up\_url="https://docs.google.com/document/d/1PPBbdMuznJs4jOfSofC-wgmYb3Yr0UVUKhyVPKnHOFo/preview?rm=demo" width="100%" height="500px"/>
 
-(View Optional Functional Requirements here: https://docs.google.com/document/d/1PPBbdMuznJs4jOfSofC-wgmYb3Yr0UVUKhyVPKnHOFo/preview?rm=demo)
+(View Optional Functional Requirements here: https://docs.google.com/document/d/1PPBbdMuznJs4jOfSofC-wgmYb3Yr0UVUKhyVPKnHOFo/preview)
